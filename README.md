@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-15-yo student, interested in anything with computer graphics in the title. Currently making graphics and game projects. Associate of the official unofficial C# Discord server. Avid C# and C++ developer.
+15-yo student, interested in anything with computer graphics in the title. Currently making graphics and game projects. Avid C# and C++ developer.
 
 (Hopefully) More cool graphics learning projects coming soon, if not, some NLP projects should be here instead
 
