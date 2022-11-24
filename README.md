@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-15-yo student, interested in anything with computer graphics in the title. Currently making graphics and game projects. Avid C# and C++ developer.
-
-(Hopefully) More cool graphics learning projects coming soon, if not, some NLP projects should be here instead
+Senior high school student, interested in computer graphics. Avid C# and C++ user.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossiyareich&layout=compact)](https://github.com/rossiyareich)
 
