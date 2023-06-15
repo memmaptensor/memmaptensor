@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior high school student, interested in computer graphics. Avid C# and C++ user.
+Senior high school student, computer graphics and machine learning enthusiast.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossiyareich&layout=compact)](https://github.com/rossiyareich)
 
