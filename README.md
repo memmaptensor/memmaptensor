@@ -2,6 +2,8 @@
 
 Senior high school student, computer graphics and machine learning enthusiast.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossiyareich&layout=compact)](https://github.com/rossiyareich)
+![GitHub Streak](https://streak-stats.demolab.com?user=rossiyareich&theme=dracula&mode=weekly)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rossiyareich&theme=dark)](https://github.com/rossiyareich)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rossiyareich&show_icons=true&theme=dracula)
+
+[![Medium](https://github-readme-medium.vercel.app/?username=rwussiya)](https://medium.com/@rwussiya)
